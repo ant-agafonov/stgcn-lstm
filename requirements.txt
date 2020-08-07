@@ -1,0 +1,4 @@
+Keras==2.4.3
+pandas==1.1.0
+sklearn
+tensorflow==2.3.0
